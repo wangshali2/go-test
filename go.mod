@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/Shopify/sarama v1.30.1
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/imroc/req v0.3.0
 	github.com/influxdata/influxdb1-client v0.0.0-20200827194710-b269163b24ab
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/olivere/elastic/v7 v7.0.4
